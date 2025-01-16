@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajuH08
 - 👀 I’m interested in ... software engineering
-- 🌱 I’m currently learning ...HTML, CSS, C, C++, JAVA
+- 🌱 I’m currently learning ...HTML, CSS, C, C++, DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Rajulhemanth22@gmail.com
 - 😄 Pronouns: ...HE
